@@ -256,4 +256,4 @@ Security is implemented at multiple levels:
 - Ayman Amkassou for his equal contribution as co-developer of this project from the ground up
 - Spring Cloud documentation and tutorials
 - Microservices patterns and best practices
-- Cloud-native application architecture guides
+
