@@ -1,4 +1,4 @@
-package com.ali.ecommerce.exceptions;
+package com.fstm.ecommerce.exceptions;
 
 
 public class ProductPurchaseException extends RuntimeException{

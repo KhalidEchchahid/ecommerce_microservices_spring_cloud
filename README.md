@@ -249,10 +249,11 @@ Security is implemented at multiple levels:
 - Use OpenFeign for synchronous service-to-service communication
 - Use Kafka for asynchronous event-driven communication
 
+
 ## Acknowledgments
 
 - Professor Omar El Beggar for guidance and supervision of this academic project
 - Ayman Amkassou for his equal contribution as co-developer of this project from the ground up
 - Spring Cloud documentation and tutorials
 - Microservices patterns and best practices
-- Cloud-native application architecture guides
+

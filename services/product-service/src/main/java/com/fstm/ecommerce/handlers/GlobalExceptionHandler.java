@@ -1,4 +1,4 @@
-package com.ali.ecommerce.handlers;
+package com.fstm.ecommerce.handlers;
 
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.HttpStatus;

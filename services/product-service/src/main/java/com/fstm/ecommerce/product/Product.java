@@ -1,4 +1,4 @@
-package com.ali.ecommerce.product;
+package com.fstm.ecommerce.product;
 
 import jakarta.persistence.*;
 import lombok.*;
