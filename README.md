@@ -2,6 +2,13 @@
 
 A robust, scalable ecommerce platform built with a microservices architecture using Spring Boot and Spring Cloud. This project demonstrates modern cloud-native application development practices with emphasis on service isolation, resilience, and scalability.
 
+**Academic Project:** This is an academic project developed at FSTM Mohammadia under the guidance of Professor Omar El Beggar.
+
+**Team:**
+
+- Khalid Echchahid
+- Ayman Amkassou
+
 ## Architecture Overview
 
 The application follows a microservices architecture pattern with the following components:
@@ -132,8 +139,8 @@ The application follows a microservices architecture pattern with the following 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-microservices.git
-cd ecommerce-microservices
+git clone https://github.com/khalidEchchahid/ecommerce_microservices_spring_cloud.git
+cd ecommerce_microservices_spring_cloud
 ```
 
 2. **Build all services**
@@ -242,23 +249,11 @@ Security is implemented at multiple levels:
 - Use OpenFeign for synchronous service-to-service communication
 - Use Kafka for asynchronous event-driven communication
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
+- Professor Omar El Beggar for guidance and supervision of this academic project
+- Ayman Amkassou for his equal contribution as co-developer of this project from the ground up
 - Spring Cloud documentation and tutorials
 - Microservices patterns and best practices
 - Cloud-native application architecture guides
-#   e c o m m e r c e _ m i c r o s e r v i c e s _ u s i n g _ s p r i n g _ c l o u d  
- #   e c o m m e r c e _ m i c r o s e r v i c e s _ u s i n g _ s p r i n g _ c l o u d  
- 
