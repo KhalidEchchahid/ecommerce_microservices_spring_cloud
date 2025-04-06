@@ -249,7 +249,6 @@ Security is implemented at multiple levels:
 - Use OpenFeign for synchronous service-to-service communication
 - Use Kafka for asynchronous event-driven communication
 
-
 ## Acknowledgments
 
 - Professor Omar El Beggar for guidance and supervision of this academic project
